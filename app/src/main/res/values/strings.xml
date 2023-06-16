@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BTC</string>
+
+    <string name="price">Price</string>
+    <string name="btc_price">BTC Price</string>
+    <string name="exchange">Exchange</string>
+
+</resources>
